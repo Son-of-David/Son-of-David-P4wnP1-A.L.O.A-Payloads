@@ -3,7 +3,7 @@ Payloads that I've tested, added to, and have found useful.
 
 GoodUSB - Downloads and executes ClamAV a free and open source antivirus software on Windows
 
-LinuxExfil - Finds and copies files that you put into it onto a drive called exfil 
+LinuxExfil - Finds and copies file types that you put into it such as .jpg .txt .sh onto a drive called exfil 
 
 LoveUrFriendThankYou - Like a super crazy RickRoll with for Windows with Scheduled-Task's and notepad hints to stop the chaos self destructs and removes all traces after 2 hours. Main songs are "Where is the Love" - Black Eyed Peas, "Why Can't We Be Friends" - War, "Thank You For Being A Friend" - Andrew Gold. Secondary song that launches when you close the Youtube window "Ain't No Sunshine" - Bill Withers. Also unmutes system volume and turns it to 60% everytime a video is launched.
 
