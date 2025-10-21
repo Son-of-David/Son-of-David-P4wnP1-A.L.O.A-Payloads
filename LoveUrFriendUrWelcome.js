@@ -1,3 +1,4 @@
+//Deletes everything that was put on the computer from LoveUrFriendThankYou
 layout('us')
 press('GUI r')
 delay(2000)
