@@ -13,6 +13,11 @@ PowerShellAdmin - Use this script to launch any script that requires PowerShell 
 
 WindowsExfilWifi - Run this on windows computers to get a print out .txt file that has saved SSID names and Wifi Passwords in plain text. Very useful for sharing passwords.
 
+I know I'm asking a lot here but I'm broke, but I'm starting to be less broken. I was layed off by the UAW last year and now I'm living with off savings and with family. Like I said I'm broke, I'm considering cashing in my 401k to pay for OffSec OSCP Cert school and test. I would appreciate not even a coffee but an Energy Drink. Anything helps and for just $2.50 you can help this tired man get through another lab or troubleshoot another bug.
+
+Chime - $ILikeTacos
+
+
 
 
 
