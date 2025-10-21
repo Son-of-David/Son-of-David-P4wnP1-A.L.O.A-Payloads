@@ -1,7 +1,7 @@
 //This script opens a terminal and exfils .png, .jpg, .txt files to a mounted USB 
-// Copies files from linux machine onto P4wnP1 A.L.O.A
-// You need to setup P4wnP1 USB Gadget Settings as HID keyboard and Mass storage
-// Create storage using genimg: "/usr/local/P4wnP1/helper/genimg -i -s 10000 -o exfil -l exfil"
+//Copies files from linux machine onto P4wnP1 A.L.O.A
+//You need to setup P4wnP1 USB Gadget Settings as HID keyboard and Mass storage
+//Create storage using genimg: "/usr/local/P4wnP1/helper/genimg -i -s 10000 -o exfil -l exfil"
 //the 10000 is MB ~10GB
 //THE PROCESS WILL TAKE A WHILE FOR LARGE SIZED BINS
 //mine took about 3 to 5 hours for a ~128GB exfil bin
