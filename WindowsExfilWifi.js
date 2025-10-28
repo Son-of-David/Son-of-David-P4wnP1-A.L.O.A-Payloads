@@ -1,3 +1,5 @@
+//Create storage using genimg: "/usr/local/P4wnP1/helper/genimg -i -s 10000 -o exfil -l exfil"
+//the 10000 is MB ~10GB
 layout('us');
 press("GUI");
 delay(1500);
